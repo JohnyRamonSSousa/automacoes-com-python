@@ -1,7 +1,8 @@
 import pyautogui
 import time
 
-# pyautogui.write("Olá mundo")
+# pyautogui.write("Olá mundo")ladora
+
 
 pyautogui.press("winleft")
 time.sleep(1)
